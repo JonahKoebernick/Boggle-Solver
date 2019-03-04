@@ -102,13 +102,6 @@ public class GameBoard {
     }
 
 
-    /**
-     * Creates a few GameBoard instances and causes their
-     * contents to be printed. This method should be used for
-     * tests written by the student as they develop their
-     * solution.
-     * The main is used for internal testing only
-     */
 
     static public void main(String[] args) {
 		
